@@ -68,7 +68,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <img 
       align=left 
       margin=10 
-      width=80 
+      width=100 
       src="./assets/lu-frazao.png"
     />
     <p>&nbsp&nbsp&nbspLu Frazão<br>
